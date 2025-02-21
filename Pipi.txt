@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>zaza page</title>
+</head>
+
+<body>
+Hi, this class is the best.
+
+</body>
+
+</html>
