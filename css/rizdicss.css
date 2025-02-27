@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.Redcolor {
+    color: #56FF70;
+    font-style: italic;	
+	
+}
+
+.pipi {
+    background-color: #56FF70;	
+	
+}
+
+.bgtile {
+    background-image: url(../images/css-pattern-by-magicpattern.png);	
+	
+}
